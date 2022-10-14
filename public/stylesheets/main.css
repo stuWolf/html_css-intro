@@ -1,0 +1,19 @@
+.signin-header{
+    position: fixed;
+}
+
+.signin{
+    width: 100vm;
+    height: 90vw;
+    text-align: center;
+    padding: 80px;
+}
+
+.signin-form{
+    width: 40vw;
+    background-color: aliceblue;
+}
+
+.side-img-container{
+
+}
